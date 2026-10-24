@@ -1,1 +1,1 @@
-# itsc-1342-assignment-1-Brian-Dobrott
+# itsc-1342-assignment-1
